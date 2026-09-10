@@ -26,6 +26,7 @@ The project provides user registration, graphical password authentication, login
 - MySQL
 - Apache Tomcat
 
+
 ## Project Structure
 
 ```text
@@ -45,38 +46,43 @@ Major-Project/
 ├── manage.py
 ├── run.bat
 └── style.css
+```
 
-How to Run
-Install and configure Java and Apache Tomcat.
-Install and configure MySQL.
-Set up the project database using the provided database file.
-Place the project files in the appropriate Tomcat web application directory.
-Start the MySQL server.
-Start the Apache Tomcat server.
-Open the application in a web browser.
-Register a user and test the graphical password authentication system.
-Main Modules
-Registration
+## How to Run
+
+1. Install and configure Java and Apache Tomcat.
+2. Install and configure MySQL.
+3. Set up the project database using the provided database file.
+4. Place the project files in the appropriate Tomcat web application directory.
+5. Start the MySQL server.
+6. Start the Apache Tomcat server.
+7. Open the application in a web browser.
+8. Register a user and test the graphical password authentication system.
+
+## Main Modules
+
+### Registration
 
 Allows new users to create an account and configure their graphical password.
 
-Login
+### Login
 
 Authenticates registered users using their graphical password.
 
-Forgot Password
+### Forgot Password
 
 Provides password recovery functionality.
 
-User Screen
+### User Screen
 
 Displays the authenticated user's interface after successful login.
 
-Team Members
-Syed Asharibuddin Hasan — 160923750045
-Afraz Ullah Khan — 160923750055
-Syed Mustafa Uddin — 160923750038
+## Team Members
 
-Major Project
+- **Syed Asharibuddin Hasan** — 160923750045
+- **Afraz Ullah Khan** — 160923750055
+- **Syed Mustafa Uddin** — 160923750038
 
-This repository contains the source code, configuration files, resources, documentation, and other materials related to the Major Project.
+## Major Project
+
+This repository contains the source code, configuration files, resources, documentation, and other materials related to the Major Project.ect.
